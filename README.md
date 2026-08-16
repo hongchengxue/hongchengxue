@@ -7,7 +7,6 @@
 
 <!-- ⑥ 访客徽章（用 laobi 服务，中文标签不会被挤压） -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hongchengxue.hongchengxue&left_text=%E8%AE%BF%E5%AE%A2%E9%87%8F&left_color=grey&right_color=orange" alt="访客量统计" />&emsp;
-<a href="https://github.com/hongchengxue"><img src="https://img.shields.io/badge/GitHub-%E4%B8%BB%E9%A1%B5-181717?logo=github&logoColor=fff&style=flat" alt="GitHub" /></a>&emsp;
 <a href="https://hongchengxue.github.io"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-8c36db&style=flat" alt="博客" /></a>
 
 </div>
