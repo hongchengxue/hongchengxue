@@ -1,35 +1,25 @@
 <div align="center">
 
 <!-- ⑩ 打字特效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C%20World!%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20HongChengXue;%E7%83%AD%E7%88%B1%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%20%C2%B7%20%E4%B8%93%E6%B3%A8%20STM32;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%9E%84%E5%BB%BA%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C%20World!%22);%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20HongChengXue;Attention%20Is%20All%20You%20Need;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%9E%84%E5%BB%BA%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%96%E7%95%8C)](https://git.io/typing-svg)
 
 <div>&nbsp;</div>
 
-<!-- ⑥ 访客徽章（用 laobi 服务，中文标签不会被挤压） -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=hongchengxue.hongchengxue&left_text=%E8%AE%BF%E5%AE%A2%E9%87%8F&left_color=grey&right_color=orange" alt="访客量统计" />&emsp;
+<!-- ⑥ 访客徽章（英文 Views 标签，不会被挤压） -->
+<img src="https://komarev.com/ghpvc/?username=hongchengxue&label=Views&color=orange&style=flat" alt="访客量统计" />&emsp;
 <a href="https://hongchengxue.github.io"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-8c36db&style=flat" alt="博客" /></a>
 
 </div>
 
 <div align="center">
 
-### 📊 GitHub 数据统计
+### 🐍 贡献贪吃蛇（含年月周标签）
 
-<!-- ③ Most used languages（GitHub 使用语言统计） + 基础统计卡片 -->
-<a href="https://github.com/hongchengxue">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongchengxue&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongchengxue&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=1f2328&title_color=0969da&langs_count=6" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongchengxue&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&langs_count=6" />
-  </picture>
-</a>
-<a href="https://github.com/hongchengxue">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=hongchengxue&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&icon_color=79c0ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=hongchengxue&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=1f2328&title_color=0969da&icon_color=0969da" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hongchengxue&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&icon_color=79c0ff" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongchengxue/hongchengxue/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongchengxue/hongchengxue/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hongchengxue/hongchengxue/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -59,13 +49,23 @@
 
 <div align="center">
 
-### 🐍 贡献贪吃蛇（含年月周标签）
+### 📊 GitHub 数据统计
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongchengxue/hongchengxue/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongchengxue/hongchengxue/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hongchengxue/hongchengxue/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- ③ Most used languages（GitHub 使用语言统计） + 基础统计卡片 -->
+<a href="https://github.com/hongchengxue">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongchengxue&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&langs_count=6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongchengxue&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=1f2328&title_color=0969da&langs_count=6" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongchengxue&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&langs_count=6" />
+  </picture>
+</a>
+<a href="https://github.com/hongchengxue">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=hongchengxue&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&icon_color=79c0ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=hongchengxue&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=1f2328&title_color=0969da&icon_color=0969da" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hongchengxue&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=f0f6fc&title_color=58a6ff&icon_color=79c0ff" />
+  </picture>
+</a>
 
 </div>
 
