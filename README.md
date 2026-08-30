@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🐍 贡献贪吃蛇（含年月周标签）
+### 🐍 贡献贪吃蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongchengxue/hongchengxue/output/github-contribution-grid-snake-dark.svg" />
