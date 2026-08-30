@@ -7,7 +7,7 @@
 
 <!-- ⑥ 访客徽章（英文 Views 标签，不会被挤压） -->
 <img src="https://komarev.com/ghpvc/?username=hongchengxue&label=Views&color=orange&style=flat" alt="访客量统计" />&emsp;
-<a href="https://hongchengxue.github.io"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-8c36db&style=flat" alt="博客" /></a>
+<a href="https://001948.xyz"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-8c36db&style=flat" alt="博客" /></a>
 
 </div>
 
