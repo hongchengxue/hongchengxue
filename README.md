@@ -73,6 +73,6 @@
 
 <div align="center">
 
-💬 欢迎通过 [GitHub](https://github.com/hongchengxue) 或 [博客](https://hongchengxue.github.io) 与我交流
+💬 欢迎通过 [GitHub](https://github.com/hongchengxue) 或 [博客](https://001948.xyz) 与我交流
 
 </div>
